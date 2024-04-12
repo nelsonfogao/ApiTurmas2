@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nelso\\OneDrive\\\u00C1rea de Trabalho\\Tp3Turmas\\WebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BDE3738B-A442-4527-BB88-F9B6B212D195}|Repository\\Repository.csproj|c:\\users\\nelso\\onedrive\\\u00E1rea de trabalho\\tp3turmas\\webapi\\repository\\turmarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDE3738B-A442-4527-BB88-F9B6B212D195}|Repository\\Repository.csproj|solutionrelative:repository\\turmarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E40D645-A629-46CE-8AE6-BC72BED9DC00}|API Alunos\\API Alunos.csproj|c:\\users\\nelso\\onedrive\\\u00E1rea de trabalho\\tp3turmas\\webapi\\api alunos\\controllers\\alunocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E40D645-A629-46CE-8AE6-BC72BED9DC00}|API Alunos\\API Alunos.csproj|solutionrelative:api alunos\\controllers\\alunocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDE3738B-A442-4527-BB88-F9B6B212D195}|Repository\\Repository.csproj|c:\\users\\nelso\\onedrive\\\u00E1rea de trabalho\\tp3turmas\\webapi\\repository\\alunorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDE3738B-A442-4527-BB88-F9B6B212D195}|Repository\\Repository.csproj|solutionrelative:repository\\alunorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{180EFC28-E4A4-4EC2-93C0-C9D892DCA555}|Application\\Application.csproj|c:\\users\\nelso\\onedrive\\\u00E1rea de trabalho\\tp3turmas\\webapi\\application\\turmaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{180EFC28-E4A4-4EC2-93C0-C9D892DCA555}|Application\\Application.csproj|solutionrelative:application\\turmaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E40D645-A629-46CE-8AE6-BC72BED9DC00}|API Alunos\\API Alunos.csproj|c:\\users\\nelso\\onedrive\\\u00E1rea de trabalho\\tp3turmas\\webapi\\api alunos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E40D645-A629-46CE-8AE6-BC72BED9DC00}|API Alunos\\API Alunos.csproj|solutionrelative:api alunos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E40D645-A629-46CE-8AE6-BC72BED9DC00}|API Alunos\\API Alunos.csproj|c:\\users\\nelso\\onedrive\\\u00E1rea de trabalho\\tp3turmas\\webapi\\api alunos\\controllers\\turmacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E40D645-A629-46CE-8AE6-BC72BED9DC00}|API Alunos\\API Alunos.csproj|solutionrelative:api alunos\\controllers\\turmacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E40D645-A629-46CE-8AE6-BC72BED9DC00}|API Alunos\\API Alunos.csproj|c:\\users\\nelso\\onedrive\\\u00E1rea de trabalho\\tp3turmas\\webapi\\api alunos\\turmarequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E40D645-A629-46CE-8AE6-BC72BED9DC00}|API Alunos\\API Alunos.csproj|solutionrelative:api alunos\\turmarequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E40D645-A629-46CE-8AE6-BC72BED9DC00}|API Alunos\\API Alunos.csproj|c:\\users\\nelso\\onedrive\\\u00E1rea de trabalho\\tp3turmas\\webapi\\api alunos\\turmaresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E40D645-A629-46CE-8AE6-BC72BED9DC00}|API Alunos\\API Alunos.csproj|solutionrelative:api alunos\\turmaresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2A38CDE-B1F2-47B8-973C-33232251A4A6}|Domain\\Domain.csproj|c:\\users\\nelso\\onedrive\\\u00E1rea de trabalho\\tp3turmas\\webapi\\domain\\turma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2A38CDE-B1F2-47B8-973C-33232251A4A6}|Domain\\Domain.csproj|solutionrelative:domain\\turma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E40D645-A629-46CE-8AE6-BC72BED9DC00}|API Alunos\\API Alunos.csproj|c:\\users\\nelso\\onedrive\\\u00E1rea de trabalho\\tp3turmas\\webapi\\api alunos\\alunoresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E40D645-A629-46CE-8AE6-BC72BED9DC00}|API Alunos\\API Alunos.csproj|solutionrelative:api alunos\\alunoresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2A38CDE-B1F2-47B8-973C-33232251A4A6}|Domain\\Domain.csproj|c:\\users\\nelso\\onedrive\\\u00E1rea de trabalho\\tp3turmas\\webapi\\domain\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2A38CDE-B1F2-47B8-973C-33232251A4A6}|Domain\\Domain.csproj|solutionrelative:domain\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{180EFC28-E4A4-4EC2-93C0-C9D892DCA555}|Application\\Application.csproj|c:\\users\\nelso\\onedrive\\\u00E1rea de trabalho\\tp3turmas\\webapi\\application\\alunoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{180EFC28-E4A4-4EC2-93C0-C9D892DCA555}|Application\\Application.csproj|solutionrelative:application\\alunoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Turma.cs",
+              "DocumentMoniker": "C:\\Users\\nelso\\OneDrive\\\u00C1rea de Trabalho\\Tp3Turmas\\WebAPI\\Domain\\Turma.cs",
+              "RelativeDocumentMoniker": "Domain\\Turma.cs",
+              "ToolTip": "C:\\Users\\nelso\\OneDrive\\\u00C1rea de Trabalho\\Tp3Turmas\\WebAPI\\Domain\\Turma.cs",
+              "RelativeToolTip": "Domain\\Turma.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T19:18:49.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AlunoResponse.cs",
+              "DocumentMoniker": "C:\\Users\\nelso\\OneDrive\\\u00C1rea de Trabalho\\Tp3Turmas\\WebAPI\\API Alunos\\AlunoResponse.cs",
+              "RelativeDocumentMoniker": "API Alunos\\AlunoResponse.cs",
+              "ToolTip": "C:\\Users\\nelso\\OneDrive\\\u00C1rea de Trabalho\\Tp3Turmas\\WebAPI\\API Alunos\\AlunoResponse.cs",
+              "RelativeToolTip": "API Alunos\\AlunoResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T19:44:06.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Aluno.cs",
+              "DocumentMoniker": "C:\\Users\\nelso\\OneDrive\\\u00C1rea de Trabalho\\Tp3Turmas\\WebAPI\\Domain\\Aluno.cs",
+              "RelativeDocumentMoniker": "Domain\\Aluno.cs",
+              "ToolTip": "C:\\Users\\nelso\\OneDrive\\\u00C1rea de Trabalho\\Tp3Turmas\\WebAPI\\Domain\\Aluno.cs",
+              "RelativeToolTip": "Domain\\Aluno.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T19:14:17.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AlunoController.cs",
+              "DocumentMoniker": "C:\\Users\\nelso\\OneDrive\\\u00C1rea de Trabalho\\Tp3Turmas\\WebAPI\\API Alunos\\Controllers\\AlunoController.cs",
+              "RelativeDocumentMoniker": "API Alunos\\Controllers\\AlunoController.cs",
+              "ToolTip": "C:\\Users\\nelso\\OneDrive\\\u00C1rea de Trabalho\\Tp3Turmas\\WebAPI\\API Alunos\\Controllers\\AlunoController.cs",
+              "RelativeToolTip": "API Alunos\\Controllers\\AlunoController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAA1wCUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T19:41:33.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nelso\\OneDrive\\\u00C1rea de Trabalho\\Tp3Turmas\\WebAPI\\API Alunos\\Program.cs",
+              "RelativeDocumentMoniker": "API Alunos\\Program.cs",
+              "ToolTip": "C:\\Users\\nelso\\OneDrive\\\u00C1rea de Trabalho\\Tp3Turmas\\WebAPI\\API Alunos\\Program.cs",
+              "RelativeToolTip": "API Alunos\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T19:39:47.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TurmaService.cs",
+              "DocumentMoniker": "C:\\Users\\nelso\\OneDrive\\\u00C1rea de Trabalho\\Tp3Turmas\\WebAPI\\Application\\TurmaService.cs",
+              "RelativeDocumentMoniker": "Application\\TurmaService.cs",
+              "ToolTip": "C:\\Users\\nelso\\OneDrive\\\u00C1rea de Trabalho\\Tp3Turmas\\WebAPI\\Application\\TurmaService.cs",
+              "RelativeToolTip": "Application\\TurmaService.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAgwBMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T19:31:15.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AlunoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\nelso\\OneDrive\\\u00C1rea de Trabalho\\Tp3Turmas\\WebAPI\\Repository\\AlunoRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\AlunoRepository.cs",
+              "ToolTip": "C:\\Users\\nelso\\OneDrive\\\u00C1rea de Trabalho\\Tp3Turmas\\WebAPI\\Repository\\AlunoRepository.cs",
+              "RelativeToolTip": "Repository\\AlunoRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T19:15:03.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TurmaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\nelso\\OneDrive\\\u00C1rea de Trabalho\\Tp3Turmas\\WebAPI\\Repository\\TurmaRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\TurmaRepository.cs",
+              "ToolTip": "C:\\Users\\nelso\\OneDrive\\\u00C1rea de Trabalho\\Tp3Turmas\\WebAPI\\Repository\\TurmaRepository.cs",
+              "RelativeToolTip": "Repository\\TurmaRepository.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAkwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T19:29:13.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TurmaResponse.cs",
+              "DocumentMoniker": "C:\\Users\\nelso\\OneDrive\\\u00C1rea de Trabalho\\Tp3Turmas\\WebAPI\\API Alunos\\TurmaResponse.cs",
+              "RelativeDocumentMoniker": "API Alunos\\TurmaResponse.cs",
+              "ToolTip": "C:\\Users\\nelso\\OneDrive\\\u00C1rea de Trabalho\\Tp3Turmas\\WebAPI\\API Alunos\\TurmaResponse.cs",
+              "RelativeToolTip": "API Alunos\\TurmaResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T19:44:47.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TurmaController.cs",
+              "DocumentMoniker": "C:\\Users\\nelso\\OneDrive\\\u00C1rea de Trabalho\\Tp3Turmas\\WebAPI\\API Alunos\\Controllers\\TurmaController.cs",
+              "RelativeDocumentMoniker": "API Alunos\\Controllers\\TurmaController.cs",
+              "ToolTip": "C:\\Users\\nelso\\OneDrive\\\u00C1rea de Trabalho\\Tp3Turmas\\WebAPI\\API Alunos\\Controllers\\TurmaController.cs",
+              "RelativeToolTip": "API Alunos\\Controllers\\TurmaController.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAkwEcAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T19:41:42.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TurmaRequest.cs",
+              "DocumentMoniker": "C:\\Users\\nelso\\OneDrive\\\u00C1rea de Trabalho\\Tp3Turmas\\WebAPI\\API Alunos\\TurmaRequest.cs",
+              "RelativeDocumentMoniker": "API Alunos\\TurmaRequest.cs",
+              "ToolTip": "C:\\Users\\nelso\\OneDrive\\\u00C1rea de Trabalho\\Tp3Turmas\\WebAPI\\API Alunos\\TurmaRequest.cs",
+              "RelativeToolTip": "API Alunos\\TurmaRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T19:44:44.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AlunoService.cs",
+              "DocumentMoniker": "C:\\Users\\nelso\\OneDrive\\\u00C1rea de Trabalho\\Tp3Turmas\\WebAPI\\Application\\AlunoService.cs",
+              "RelativeDocumentMoniker": "Application\\AlunoService.cs",
+              "ToolTip": "C:\\Users\\nelso\\OneDrive\\\u00C1rea de Trabalho\\Tp3Turmas\\WebAPI\\Application\\AlunoService.cs",
+              "RelativeToolTip": "Application\\AlunoService.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABMAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T19:31:30.877Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

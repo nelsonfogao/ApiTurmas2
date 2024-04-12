@@ -1,0 +1,38 @@
+C:\Users\nelso\OneDrive\Área de Trabalho\Tp3Turmas\WebAPI\API Alunos\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\nelso\OneDrive\Área de Trabalho\Tp3Turmas\WebAPI\API Alunos\bin\Debug\net8.0\appsettings.json
+C:\Users\nelso\OneDrive\Área de Trabalho\Tp3Turmas\WebAPI\API Alunos\bin\Debug\net8.0\API Alunos.exe
+C:\Users\nelso\OneDrive\Área de Trabalho\Tp3Turmas\WebAPI\API Alunos\bin\Debug\net8.0\API Alunos.deps.json
+C:\Users\nelso\OneDrive\Área de Trabalho\Tp3Turmas\WebAPI\API Alunos\bin\Debug\net8.0\API Alunos.runtimeconfig.json
+C:\Users\nelso\OneDrive\Área de Trabalho\Tp3Turmas\WebAPI\API Alunos\bin\Debug\net8.0\API Alunos.dll
+C:\Users\nelso\OneDrive\Área de Trabalho\Tp3Turmas\WebAPI\API Alunos\bin\Debug\net8.0\API Alunos.pdb
+C:\Users\nelso\OneDrive\Área de Trabalho\Tp3Turmas\WebAPI\API Alunos\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\nelso\OneDrive\Área de Trabalho\Tp3Turmas\WebAPI\API Alunos\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\nelso\OneDrive\Área de Trabalho\Tp3Turmas\WebAPI\API Alunos\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\nelso\OneDrive\Área de Trabalho\Tp3Turmas\WebAPI\API Alunos\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\nelso\OneDrive\Área de Trabalho\Tp3Turmas\WebAPI\API Alunos\bin\Debug\net8.0\Application.dll
+C:\Users\nelso\OneDrive\Área de Trabalho\Tp3Turmas\WebAPI\API Alunos\bin\Debug\net8.0\Domain.dll
+C:\Users\nelso\OneDrive\Área de Trabalho\Tp3Turmas\WebAPI\API Alunos\bin\Debug\net8.0\Repository.dll
+C:\Users\nelso\OneDrive\Área de Trabalho\Tp3Turmas\WebAPI\API Alunos\bin\Debug\net8.0\Application.pdb
+C:\Users\nelso\OneDrive\Área de Trabalho\Tp3Turmas\WebAPI\API Alunos\bin\Debug\net8.0\Domain.pdb
+C:\Users\nelso\OneDrive\Área de Trabalho\Tp3Turmas\WebAPI\API Alunos\bin\Debug\net8.0\Repository.pdb
+C:\Users\nelso\OneDrive\Área de Trabalho\Tp3Turmas\WebAPI\API Alunos\obj\Debug\net8.0\API Alunos.csproj.AssemblyReference.cache
+C:\Users\nelso\OneDrive\Área de Trabalho\Tp3Turmas\WebAPI\API Alunos\obj\Debug\net8.0\API Alunos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nelso\OneDrive\Área de Trabalho\Tp3Turmas\WebAPI\API Alunos\obj\Debug\net8.0\API Alunos.AssemblyInfoInputs.cache
+C:\Users\nelso\OneDrive\Área de Trabalho\Tp3Turmas\WebAPI\API Alunos\obj\Debug\net8.0\API Alunos.AssemblyInfo.cs
+C:\Users\nelso\OneDrive\Área de Trabalho\Tp3Turmas\WebAPI\API Alunos\obj\Debug\net8.0\API Alunos.csproj.CoreCompileInputs.cache
+C:\Users\nelso\OneDrive\Área de Trabalho\Tp3Turmas\WebAPI\API Alunos\obj\Debug\net8.0\API Alunos.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\nelso\OneDrive\Área de Trabalho\Tp3Turmas\WebAPI\API Alunos\obj\Debug\net8.0\API Alunos.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nelso\OneDrive\Área de Trabalho\Tp3Turmas\WebAPI\API Alunos\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\nelso\OneDrive\Área de Trabalho\Tp3Turmas\WebAPI\API Alunos\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\nelso\OneDrive\Área de Trabalho\Tp3Turmas\WebAPI\API Alunos\obj\Debug\net8.0\staticwebassets\msbuild.API Alunos.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\nelso\OneDrive\Área de Trabalho\Tp3Turmas\WebAPI\API Alunos\obj\Debug\net8.0\staticwebassets\msbuild.build.API Alunos.props
+C:\Users\nelso\OneDrive\Área de Trabalho\Tp3Turmas\WebAPI\API Alunos\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.API Alunos.props
+C:\Users\nelso\OneDrive\Área de Trabalho\Tp3Turmas\WebAPI\API Alunos\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.API Alunos.props
+C:\Users\nelso\OneDrive\Área de Trabalho\Tp3Turmas\WebAPI\API Alunos\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\nelso\OneDrive\Área de Trabalho\Tp3Turmas\WebAPI\API Alunos\obj\Debug\net8.0\scopedcss\bundle\API Alunos.styles.css
+C:\Users\nelso\OneDrive\Área de Trabalho\Tp3Turmas\WebAPI\API Alunos\obj\Debug\net8.0\API Alunos.csproj.Up2Date
+C:\Users\nelso\OneDrive\Área de Trabalho\Tp3Turmas\WebAPI\API Alunos\obj\Debug\net8.0\API Alunos.dll
+C:\Users\nelso\OneDrive\Área de Trabalho\Tp3Turmas\WebAPI\API Alunos\obj\Debug\net8.0\refint\API Alunos.dll
+C:\Users\nelso\OneDrive\Área de Trabalho\Tp3Turmas\WebAPI\API Alunos\obj\Debug\net8.0\API Alunos.pdb
+C:\Users\nelso\OneDrive\Área de Trabalho\Tp3Turmas\WebAPI\API Alunos\obj\Debug\net8.0\API Alunos.genruntimeconfig.cache
+C:\Users\nelso\OneDrive\Área de Trabalho\Tp3Turmas\WebAPI\API Alunos\obj\Debug\net8.0\ref\API Alunos.dll
